@@ -1,0 +1,2 @@
+# spom
+my first repository
